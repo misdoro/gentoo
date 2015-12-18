@@ -1,0 +1,9 @@
+*networkmanager-l2tp-0.9.8.7 (18 Dec 2015)
+  18 Dec 2015; Mikhail Doronin <misha@doronin.org> +networkmanager-l2tp-0.9.8.7.ebuild:
+  ebuild for the latest release version, add net-dialup/xl2tpd runtime dependency
+
+*networkmanager-l2tp-0.9.6 (23 Aug 2013)
+
+  23 Aug 2013; Agostino Sarubbo <ago@gentoo.org> +metadata.xml,
+  +networkmanager-l2tp-0.9.6.ebuild:
+  networkmanager-l2tp first commit
